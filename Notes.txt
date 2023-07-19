@@ -1,0 +1,36 @@
+# JavaScript web-dev
+
+- prompt use to show prompt to screen
+- string concadination adding two string
+
+### points to learn to get started
+
+- If else logic if else function how to write
+- map
+- reduce
+- function higher order function
+- event loop
+
+ 
+
+### Reach
+
+- how use state
+- contex use karna reducer
+- router use
+
+[React](https://www.notion.so/React-eb805c80d8ba47bea5b95de7e9237620?pvs=21)
+
+- vs code shortcut
+    
+    ctrl + `  near the one to open terminal 
+    
+    ctrl + b control explore open and close 
+    
+    ctrl + p  open control panel 
+    
+    alt + z  to adject text in small window 
+    
+
+> Coding is about Input processing and output
+>
