@@ -1,3 +1,11 @@
 Fluent ui  => microsoft library for componet 
 material ui => materai.io form google 
 // this thing use for design 
+
+July 20, 2023 
+
+( )  ⇒ it use when call function 
+
+{ }  ⇒  when you have to write block of code 
+
+[ ] ⇒ list anything it array \ it is type of data structure
