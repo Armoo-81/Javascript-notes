@@ -1,0 +1,16 @@
+Based on the transcript, here are the interview questions mentioned:
+
+1. What is the difference between local storage and session storage?
+2. Why is React so popular?
+3. What folder structure have you used in your projects?
+4. What is React Fragment?
+5. Differentiate state and props in React.
+6. Have you used hooks?
+7. Differentiate `useMemo` and `useContext`.
+8. What is Redux, and how does it work?
+9. Have you used TypeScript?
+10. What is the difference between type and interface in TypeScript?
+11. Explain the `this` keyword in JavaScript with an example.
+12. Create an age input box and display an error message if the entered age is less than 18.
+
+These are the interview questions found in the given transcript.
