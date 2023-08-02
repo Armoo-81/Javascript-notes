@@ -14,3 +14,8 @@ Based on the transcript, here are the interview questions mentioned:
 12. Create an age input box and display an error message if the entered age is less than 18.
 
 These are the interview questions found in the given transcript.
+
+
+
+question--> What is arthematic operator and logical operator
+Ans --> Arithmetic operators are used to perform mathematical operations, while logical operators are used to test the truth or falsehood of an expression. Arithmetic operators include +, -, *, /, %, ++ and --, while logical operators include &&, || and !.
